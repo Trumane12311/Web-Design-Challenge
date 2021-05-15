@@ -36,9 +36,20 @@ body {
   }
 
   a {
-    color: #d21034;
+    color: green;
   }
   
+  hr {  
+    width: 90%;  
+    height: 5px;  
+    background-color: green;  
+    margin-bottom: 15px;  
+    margin-right: auto;  
+    margin-left: auto;  
+    margin-top: 15px;  
+    border-width: 10px;  
+    border-color: green;  
+    }  
   /* Selecting elements by class */
   .container {
     width: 1024px;
