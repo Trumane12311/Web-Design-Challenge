@@ -93,4 +93,12 @@ body {
     padding: 10px;
     padding-right: 20px;
   }
+
+  #figure-visualization {
+    width: 600px;
+    height: 450px;
+    padding: 10px;
+    padding-right: 20px;
+    margin-left: 225px;
+}
   
