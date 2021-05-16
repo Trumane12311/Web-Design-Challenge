@@ -110,8 +110,12 @@ body {
 }
   
 /* Element manipulation by media */
-@media (min-width:768px){
+@media (min-width:360px){
   .navbar-light .navbar-brand {
     margin-left: 15px;
   }
 }
+@media (max-width:375px){
+  h2 {
+     margin:auto;
+  }
