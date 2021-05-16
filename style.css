@@ -75,6 +75,9 @@ body {
     margin: 15px;
   }
 
+  .footer-color {
+    background-color: green;
+  }
   /* Selecting elements by ID */
   #main-visual,
   #visual-image {
